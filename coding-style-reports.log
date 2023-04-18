@@ -1,0 +1,9 @@
+./include/sokoban.h:43: INFO:C-A3
+./include/struct.h:1: MAJOR:C-H2
+./src/cat.c:52: MAJOR:C-C1
+./src/lose.c:19: MAJOR:C-C1
+./src/lose.c:19: MINOR:C-L4
+./src/main.c:73: INFO:C-A3
+./src/move.c:18: MAJOR:C-C1
+./src/move.c:65: INFO:C-A3
+./src/player.c:101: INFO:C-A3
